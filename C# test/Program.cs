@@ -95,3 +95,20 @@ namespace Solution
         public string Company { get; set; }
     }
 }
+
+
+/* 
+12
+Ainslee Ginsie Galaxy 28
+Libbey Apdell Starbucks 44
+Illa Stebbings Berkshire 49
+Laina Sycamore Berkshire 20
+Abbe Parnell Amazon 20
+Ludovika Reveley Berkshire 30
+Rene Antos Galaxy 44
+Vinson Beckenham Berkshire 45
+Reed Lynock Amazon 41
+Wyndham Bamfield Berkshire 34
+Loraine Sappson Amazon 49
+Abbe Antonutti Starbucks 47
+*/
